@@ -4,3 +4,5 @@ node_modules/
 /my-vault/
 template/agentic-os/runs/*.md
 !template/agentic-os/runs/index.md
+.claude-flow/
+.claude/

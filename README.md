@@ -4,6 +4,11 @@ Build your own **Agentic OS** for Claude Code: codified skills, self-improving l
 memory/state vault, and a local dashboard. Based on the 4-level construct — skills + loop engineering
 (L1), memory & state (L2), interface (L3), distribution (L4). **L1 + L2 are ~90% of the value.**
 
+![Agentic OS dashboard — live vault metrics, skill cards, headless automation buttons](docs/dashboard-demo.gif)
+
+_Level 3 dashboard: live vault metrics, 7 skill cards with trigger phrases + run history, and
+headless `claude -p` automation buttons — pure Node, zero deps._
+
 > Hand this to a teammate: one command installs 7 skills and scaffolds the vault. No terminal fear —
 > a dashboard turns each skill into a button.
 
