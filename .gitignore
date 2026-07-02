@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+*.log
+/my-vault/
+template/agentic-os/runs/*.md
+!template/agentic-os/runs/index.md
