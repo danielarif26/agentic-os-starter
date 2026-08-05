@@ -73,5 +73,8 @@ automations with a def file in `automations/` can run — no arbitrary execution
 Nothing is scheduled by default. `automations/workflow-audit-automation.md` includes a macOS launchd
 snippet to run a weekly audit. Enabling spends plan/credits — your call.
 
+## Author
+I'm S M Arifuzzaman. This starter is the general-purpose cut of the agentic setup I run for client SEO work in [free-seo-stack](https://github.com/danielarif26/free-seo-stack); my other projects are at [smarifuzzaman.online](https://smarifuzzaman.online).
+
 ## License
 MIT.
