@@ -1,0 +1,20 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Agentic OS — Starter banner">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1d2b64"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" rx="18" fill="url(#bg)"/>
+  <rect width="900" height="90" rx="18" fill="url(#edge)"/>
+  <rect x="0.5" y="0.5" width="899" height="179" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity="0.10"/>
+  <circle cx="835" cy="45" r="70" fill="#ffffff" opacity="0.06"/>
+  <circle cx="70" cy="150" r="90" fill="#ffffff" opacity="0.05"/>
+  <text x="450" y="92" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#f8fafc" letter-spacing="0.5">Agentic OS — Starter</text>
+  <text x="450" y="126" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#cbd5e1" letter-spacing="0.4">Skills, memory, and a dashboard for Claude Code</text>
+</svg>

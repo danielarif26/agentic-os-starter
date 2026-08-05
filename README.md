@@ -1,3 +1,24 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Agentic OS — Starter banner" width="100%" />
+</p>
+
+<h3 align="center">Skills, memory, and a dashboard for Claude Code</h3>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/github/license/danielarif26/agentic-os-starter?style=for-the-badge" />
+  <img alt="Language" src="https://img.shields.io/github/languages/top/danielarif26/agentic-os-starter?style=for-the-badge" />
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/danielarif26/agentic-os-starter?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="#whats-inside">What's inside</a> ·
+  <a href="#install">Install</a> ·
+  <a href="#use">Use</a> ·
+  <a href="https://github.com/danielarif26/agentic-os-starter/issues">Issues</a>
+</p>
+
+---
+
 # Agentic OS — Starter
 
 Build your own **Agentic OS** for Claude Code: codified skills, self-improving loops, a coherent
@@ -78,3 +99,8 @@ I'm S M Arifuzzaman. This starter is the general-purpose cut of the agentic setu
 
 ## License
 MIT.
+
+---
+
+Built by [S M Arifuzzaman](https://smarifuzzaman.online) — [X](https://x.com/shuvro_jaman) ·
+[Instagram](https://www.instagram.com/shuvroz) · [YouTube](https://www.youtube.com/@secretaihub)
