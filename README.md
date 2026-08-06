@@ -1,5 +1,6 @@
 <p align="center">
   <img src="assets/banner.svg" alt="Agentic OS — Starter banner" width="100%" />
+  <img src="assets/hero.jpg" alt="mission-control dashboard tended by small robots" width="100%">
 </p>
 
 <h3 align="center">Skills, memory, and a dashboard for Claude Code</h3>
